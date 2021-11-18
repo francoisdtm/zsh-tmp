@@ -1,1 +1,1 @@
-alias tmp="cd $(mktemp -d)"
+alias tmp='cd $(mktemp -d)'
